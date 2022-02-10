@@ -87,6 +87,34 @@
 numbers = [5, 2, 8, 1, 10]
 for index, number in enumerate(numbers):
     print(index, number)
-
-
 ```
+
+## 04. 리스트 내포
+```buildoutcfg
+* 리스트를 for 문, if 문등을 지정하여 리스트를 간편하게 만드는 방법
+1️⃣ 1번째로 for 문
+2️⃣ 2번째로 if 문
+3️⃣ 3번째로 표현식
+4️⃣ 4번째로 리스트
+
+✔ [표현식 for 변수 in 순회가능한 데이터]
+    >>> nums = [i for i in range(5)]
+    >>> print(nums)
+    [0,1,2,3,4]
+    
+    >>> nums = [100,200,300]
+    >>> double_nums = [i*2 for i in nums]
+    print(double_nums)
+    [200,400,600]
+    
+✔ [표현식 for 변수 in 순회가능한 데이터 if 조건식]
+    >>> nums = [i for i in range(10) if i % 2 ==0]
+    >>> print(nums)
+    [0,2,4,6,8]
+    
+    >>>nums=[100,200,300,400,500]
+    >>>double_nums=[i*2 for i in nums if i >= 300]
+    print(double_nums)
+    [600,800,1000]
+```
+
