@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="901fd211-f799-4a99-9894-b883d7d264ba" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/venv/Ch01.dataType/04.list_comprehension.py" afterDir="false" />
+    <list default="true" id="901fd211-f799-4a99-9894-b883d7d264ba" name="Changes" comment="List comprehension commit">
+      <change afterPath="$PROJECT_DIR$/venv/Ch01.dataType/05.Assignment_copy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Ch01.dataType/DATATYPE.MD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Ch01.dataType/DATATYPE.MD" afterDir="false" />
     </list>
@@ -55,7 +55,7 @@
       <recent name="D:\pythonProject_deep" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.04.list_comprehension">
+  <component name="RunManager" selected="Python.05.Assignment_copy">
     <configuration name="01.stringMethod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_deep" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,6 +140,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="05.Assignment_copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject_deep" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Ch01.dataType" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Ch01.dataType/05.Assignment_copy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject_deep" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,6 +184,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.05.Assignment_copy" />
         <item itemvalue="Python.04.list_comprehension" />
         <item itemvalue="Python.02.stringFormatting" />
         <item itemvalue="Python.03.list" />
@@ -207,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644452020610</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="List comprehension commit">
+      <created>1644482889214</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644482889214</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,6 +255,7 @@
     <MESSAGE value="venv set" />
     <MESSAGE value="string formating practice" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="List comprehension commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="List comprehension commit" />
   </component>
 </project>
