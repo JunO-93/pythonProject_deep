@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="901fd211-f799-4a99-9894-b883d7d264ba" name="Changes" comment="commit class practice">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject_deep.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject_deep.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="901fd211-f799-4a99-9894-b883d7d264ba" name="Changes" comment="commit regex practice">
+      <change beforePath="$PROJECT_DIR$/venv/Ch07.Concurrency_Parallelism/multiprocessing_test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Ch07.Concurrency_Parallelism/multiprocessing_test3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
