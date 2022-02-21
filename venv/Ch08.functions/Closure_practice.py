@@ -18,7 +18,7 @@
 # 3) 외부 함수가 내부 함수를 반환해야 한다.
 
 def greeting(name, age, gender):
-    def inner():
+    def inner(): 
         print(name, "님 안녕하세요!")
         print("나이: ", age)
         print("성별: ", gender)
@@ -27,7 +27,7 @@ def greeting(name, age, gender):
 closure = greeting('나미', 27, 'female')
 closure()
 
-# print(closure.__closure__[0].cell_contents)
+print(closure.__closure__[0].cell_contents)
 
 for i in closure.__closure__:
     print(i.cell_contents)
